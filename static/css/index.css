@@ -1,3 +1,11 @@
-.hpage-main {
 
+.hpage-main {
+    text-align: center;
+    text-shadow: 0 0 15px #380303;
+}
+
+.card-img-top{
+    margin-top: 50px;
+    width: 40%;
+    margin: 30px auto;
 }
